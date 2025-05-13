@@ -5,7 +5,7 @@ The dynamic nature of Infrastructure as Code (IaC) provisioned infrastructures p
 
 ## Proposal
 
-<img src="Proposal/proposal.png" />
+<img src="./Proposal/proposal.png" />
 
 ##
 
